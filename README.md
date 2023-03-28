@@ -57,7 +57,7 @@ Download the <a href="apk/app-debug.apk?raw=true">APK directly</a>. You can see 
 <img width="60%" src="screenshots/architecture-joker.png" />
 <br>
 
-## API de terceiros
+## Third-party API
 
 Joker App uses a private API https://api.tiagoaguiar.co/jokerapp/jokes/categories for your REST calls.
 
